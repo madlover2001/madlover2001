@@ -24,7 +24,13 @@
 
 ###
 
-<p align="left">🎨 **Frontend:** React  • TypeScript  • TailwindCSS  • Figma   <br>🔧 **Backend:** Node.js  • NestJS  • Express  • Python   <br>🗄️ **Bases de Datos:** PostgreSQL  • MongoDB  • Prisma <br>🎭 **Diseño & Creatividad:** Photoshop  • Illustrator  • Procreate   <br>🚀 **Herramientas de Trabajo:** Git  • Trello  • Slack  •  CI/CD</p>
+<ul align="left">
+  <li>🎨 <strong>Frontend:</strong> React  • TypeScript  • TailwindCSS  • Figma </li>
+  <li>🔧 <strong>Backend:</strong> Node.js  • NestJS  • Express  • Python </li>
+  <li>🗄️ <strong>Bases de Datos:</strong> PostgreSQL  • MongoDB  • Prisma </li>
+  <li>🎭 <strong>Diseño & Creatividad:</strong> Photoshop  • Illustrator  • Procreate </li>
+  <li>🧩 <strong>Herramientas de Trabajo:</strong> Git  • Trello  • Slack  • CI/CD </li>
+</ul>
 
 ###
 
@@ -53,5 +59,9 @@
 ###
 
 <p align="left">🛠️ "El software es una herramienta para cambiar el mundo... o al menos hacer el tuyo un poco mejor." 🌍</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/madlover2001/madlover2001/output/snake.svg" alt="Snake animation" />
 
 ###

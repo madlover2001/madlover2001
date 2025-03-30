@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Bienvenido/a a mi espacio en GitHub ✨  <br>Soy un Ingeniero de Software Full Stack desde Ecuador, con corazón de Frontend 💙 y pasión por construir cosas útiles, limpias y escalables… ¡y si se ven bien, mucho mejor! 😄</p>
+<p align="left">Bienvenido/a a mi espacio en GitHub ✨  <br>Soy Ingeniero de Software Full Stack desde Ecuador, con corazón de Frontend 💙 y pasión por construir cosas útiles, limpias y escalables… ¡y si se ven bien, mucho mejor! 😄</p>
 
 ###
 

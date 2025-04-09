@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="[https://scontent.fatf4-1.fna.fbcdn.net/v/t39.30808-6/484982256_9418817931565230_2514205301818628952_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFohmaQVgSV5y3JdgPx_Wdd6VrH9CKeIvnpWsf0Ip4i-VI-OAHeKhNCn52MT3Q2EZvq43mShOrF_3zdG2x2VypE&_nc_ohc=Kn1xVOf-lzMQ7kNvgG1u6Iu&_nc_oc=Admi3ZeqMXYQFVBR9tiEohlHFc59J888bjRE75D-aS00ZO6T3orK5jwpyJFdD3srLWM&_nc_zt=23&_nc_ht=scontent.fatf4-1.fna&_nc_gid=0YJ7BZgp4QvcVPTiKv2QVA&oh=00_AYEbGE7VJB9d-XCx9KbXFm6LHXivbKzsowUdFhCqvReJVw&oe=67EE8ED3](https://scontent.fatf4-1.fna.fbcdn.net/v/t39.30808-6/484982256_9418817931565230_2514205301818628952_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=W6Ni9zJU6aQQ7kNvwGG4l6x&_nc_oc=Admzu-NETVgFyUzI6gAWvMzaqB1U2IzIyJkLLsGoomT8Wo60m7tyRgv8U9qy1YBNI_Y&_nc_zt=23&_nc_ht=scontent.fatf4-1.fna&_nc_gid=mjM545xDr10dRo9eGkkTrw&oh=00_AfF_ByRq85JNxWrxdRalrS_t-RkOG1r-nLD3huOMkTWuhg&oe=67FB8593)"  />
-</div>
-
-###
-
 <p align="left">Bienvenido/a a mi espacio en GitHub ✨  <br>Soy Ingeniero de Software Full Stack desde Ecuador, con corazón de Frontend 💙 y pasión por construir cosas útiles, limpias y escalables… ¡y si se ven bien, mucho mejor! 😄</p>
 
 ###
